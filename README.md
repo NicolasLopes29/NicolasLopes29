@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A passionate software development student from São Paulo</h3>
 
-- 🌱 I’m currently learning **Java, React, Kotlin**
+- 🌱 I’m currently learning **Java, Kotlin, React, React Native, Node.js, SQL and MongoDB**
 
 - 📫 How to reach me **nico.gblopes@gmail.com**
 
-- ⚡ Fun fact **I love music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
