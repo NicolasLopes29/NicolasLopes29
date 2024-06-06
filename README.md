@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  Software Development Student | Java | Kotlin | React & React Native | SQL | Node.js
+  Software Development Student
 </h3>
 
 <div align='center'>
