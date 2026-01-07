@@ -14,11 +14,3 @@
 <a href="https://www.linkedin.com/in/nicolaslopes29"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
 
 </div>
-
-<details align="left">
-  <summary>Credits</summary> 
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  <br>
-   - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
-  <br>
-</details>
